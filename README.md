@@ -15,7 +15,7 @@ So far, only Russian, sorry. Привет! Это криптошифратор A
 
 **Termux**
 
-`pkg upgrade && pkg update ; pkg install python ; pkg install git ; git clone 'https://github.com/Sadvinia/Algoon_cryptobot_RU' ; cd Algoon_cryptobot_RU ; python Algoon.py`
+`pkg update && pkg upgrade ; pkg install python ; pkg install git ; git clone 'https://github.com/Sadvinia/Algoon_cryptobot_RU' ; cd Algoon_cryptobot_RU ; python Algoon.py`
 
 
 ![Algoon_termux](https://user-images.githubusercontent.com/93837780/159916544-88c73279-4222-47a3-ac9d-2f6ead09b617.jpg)
