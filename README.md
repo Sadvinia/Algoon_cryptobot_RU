@@ -9,11 +9,8 @@ So far, only Russian, sorry. Привет! Это криптошифратор A
 
 # Установка
 
-**Windows**
+**Windows**\n
 Установите Algoon.exe со страницы релиза https://github.com/Sadvinia/Algoon_cryptobot_RU/releases/tag/v0.7
 
-**Termux**
-`pkg upgrade && pkg update
-pkg install python
-pkg install git
-git clone `
+**Termux**\n
+`pkg upgrade && pkg update ; pkg install python ; pkg install git ; git clone 'https://github.com/Sadvinia/Algoon_cryptobot_RU'`
