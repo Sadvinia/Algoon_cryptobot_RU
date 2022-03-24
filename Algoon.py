@@ -2,7 +2,7 @@ import os
 import time
 while True:
 	def banner():
-		os.system("cls")
+		os.system("clear")
 		print("""        _                         
    /\  | |                        
   /  \ | | ____  ___   ___  ____  
