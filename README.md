@@ -4,4 +4,5 @@ So far, only Russian, sorry. Привет! Это криптошифратор A
 Если есть предложения или проблемы, пишите!
 
 
-![algoon2](https://user-images.githubusercontent.com/93837780/159909097-2e8e3c8a-942c-4544-93fa-05907363d6ec.png)
+
+![algoon2](https://user-images.githubusercontent.com/93837780/159909377-a7f05179-7dc6-4222-bcfa-3d990c92b0b7.png)
