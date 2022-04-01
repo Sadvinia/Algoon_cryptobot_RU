@@ -4,7 +4,7 @@ So far, only Russian, sorry. Привет! Это криптошифратор A
 Если есть предложения или проблемы, пишите!
 
 
-![banner](https://user-images.githubusercontent.com/93837780/161312012-cd65fe5c-377f-4082-9370-39cb7a127918.jpg)
+![banner_without_background](https://user-images.githubusercontent.com/93837780/161313285-5939a23a-7463-4fb7-af3b-05f6113cfc57.png)
 
 # Установка
 
