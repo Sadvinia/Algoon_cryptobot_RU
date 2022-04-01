@@ -2,7 +2,7 @@
 So far, only Russian, sorry. Привет! Это криптошифратор Algoon v0.7! 
 Пока шифровать можно только русские сообщения. Вы можете скачать .exe файл для Windows или .py для любой другой ОС. 
 Если есть предложения или проблемы, пишите!
-![banner2](https://user-images.githubusercontent.com/93837780/161314382-8325ea36-83fb-4681-8f8f-dac5080fe04f.png)
+![banner3](https://user-images.githubusercontent.com/93837780/161314727-05f98fc6-9ccb-49eb-9321-b3fbe77334ba.png)
 # Установка
 
 **Windows**
