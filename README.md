@@ -4,14 +4,16 @@ So far, only Russian, sorry. Привет! Это криптошифратор A
 Если есть предложения или проблемы, пишите!
 
 
-![algoon2](https://user-images.githubusercontent.com/93837780/159909377-a7f05179-7dc6-4222-bcfa-3d990c92b0b7.png)
-
+![banner](https://user-images.githubusercontent.com/93837780/161310699-efa41644-03d7-44ad-958d-79ce9e9f0522.png)
 
 # Установка
 
 **Windows**
 
 Установите Algoon.exe со страницы релиза https://github.com/Sadvinia/Algoon_cryptobot_RU/releases/tag/v0.7
+
+
+![algoon2](https://user-images.githubusercontent.com/93837780/159909377-a7f05179-7dc6-4222-bcfa-3d990c92b0b7.png)
 
 **Termux**
 
